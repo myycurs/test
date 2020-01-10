@@ -1,0 +1,3 @@
+[submodule "Weibull"]
+	path = Weibull
+	url = https://github.com/myycurs/Weibull.git
